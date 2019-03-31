@@ -2,7 +2,7 @@ name: clinl-website
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Ludovic 'Archivist' Lagouardette
 
 targets:
   clinl-website:
