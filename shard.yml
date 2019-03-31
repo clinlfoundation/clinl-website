@@ -8,6 +8,16 @@ targets:
   clinl-website:
     main: src/clinl-website.cr
 
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    version: 0.25.0
+  spec-kemal:
+    github: kemalcr/spec-kemal
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
+
+
 crystal: 0.27.2
 
 license: MIT
